@@ -11,7 +11,7 @@ This is a simple project created to strengthen my skills in Redux, specifically 
 - Dynamic page routing and navigation
 - Demonstration of state updates, routing, and UI reactivity
 - Getting Started
-- To run the project locally:
+## To run the project locally:
 
 ### `Clone the repository:`
 
