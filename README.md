@@ -33,12 +33,12 @@ npm start
 The project will be available at http://localhost:3000.
 
 ## Technologies Used
--React: Frontend library for building user interfaces
--Redux Toolkit: Simplified Redux setup with enhanced tools
--RTK Query: A powerful data fetching and caching tool built into Redux Toolkit
--React Router DOM: For adding navigation and dynamic routing between pages
--Tailwind CSS: Utility-first CSS framework for building modern, responsive designs
--JavaScript (ES6+): For writing the application logic
+- React: Frontend library for building user interfaces
+- Redux Toolkit: Simplified Redux setup with enhanced tools
+- RTK Query: A powerful data fetching and caching tool built into Redux Toolkit
+- React Router DOM: For adding navigation and dynamic routing between pages
+- Tailwind CSS: Utility-first CSS framework for building modern, responsive designs
+- JavaScript (ES6+): For writing the application logic
 ## Learning Goals
 Understand the core concepts of Redux Toolkit (slices, store, etc.)
 Efficiently manage state with Redux Toolkit’s createSlice
