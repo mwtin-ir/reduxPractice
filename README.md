@@ -15,20 +15,20 @@ This is a simple project created to strengthen my skills in Redux, specifically 
 
  To run the project locally:
 
-### `Clone the repository:`
+### Clone the repository:
 
 
 ```
 git clone https://github.com/mwtin-ir/reduxPractice.git
 ```
-## `Install the dependencies:`
+## Install the dependencies:
 
 
 ```
 npm install
 ```
 
-### `Start the development server:`
+### Start the development server:
 
 
 ```
