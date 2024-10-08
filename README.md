@@ -15,6 +15,7 @@ This is a simple project created to strengthen my skills in Redux, specifically 
 
 ### `Clone the repository:`
 
+
 ```
 git clone https://github.com/mwtin-ir/reduxPractice.git
 ```
@@ -26,6 +27,8 @@ npm install
 ```
 
 ### `Start the development server:`
+
+
 ```
 npm start
 ```
@@ -39,6 +42,8 @@ The project will be available at http://localhost:3000.
 - React Router DOM: For adding navigation and dynamic routing between pages
 - Tailwind CSS: Utility-first CSS framework for building modern, responsive designs
 - JavaScript (ES6+): For writing the application logic
+
+  
 ## Learning Goals
 - Understand the core concepts of Redux Toolkit (slices, store, etc.)
 - Efficiently manage state with Redux Toolkit’s createSlice
@@ -47,6 +52,8 @@ The project will be available at http://localhost:3000.
 - Create responsive and modern UIs with Tailwind CSS
 - Practice best practices in managing global state with Redux
 - Improve performance through automatic caching and data synchronization using RTK Query
+
+  
 ## Future Improvements
 - Expand state management with more complex slices and actions
 - Implement error handling and loading states with RTK Query
