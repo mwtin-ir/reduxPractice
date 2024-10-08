@@ -10,7 +10,7 @@ This is a simple project created to strengthen my skills in Redux, specifically 
 - Async state management using RTK Query for API calls
 - Dynamic page routing and navigation
 - Demonstration of state updates, routing, and UI reactivity
--
+
 ## Getting Started
 
  To run the project locally:
